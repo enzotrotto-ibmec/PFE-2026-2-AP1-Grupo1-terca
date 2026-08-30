@@ -1,4 +1,4 @@
-# 📦 **Demandas do cliente PKZLAB - Grupo 1**
+# 📦 **Demandas do cliente PKZLAB/One to One - Grupo 1**
 
 ## 📋 Requerimentos
 
