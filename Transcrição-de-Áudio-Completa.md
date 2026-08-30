@@ -1,4 +1,4 @@
-# 🎧**Transcrição completa do áudio da entrevista com o cliente PKZLAB - Grupo 1**
+# 🎧 **Transcrição completa do áudio da entrevista com o cliente PKZLAB - Grupo 1**
 
 ## _Turma de Projeto FrontEnd_
 
