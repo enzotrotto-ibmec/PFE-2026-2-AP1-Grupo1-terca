@@ -1,10 +1,10 @@
-# **Transcrição completa do áudio da entrevista com o cliente PKZLAB - Grupo 1**
+# 🎧**Transcrição completa do áudio da entrevista com o cliente PKZLAB - Grupo 1**
 
 ## _Turma de Projeto FrontEnd_
 
 ### Professor Thiago Marcondes
 
-## Transcrevendo
+## ✍️ Transcrevendo
 
 - Como o Thiago falou, me chamo Henrique, eu trabalho com futebol, esporte e desenvolvimento na parte da educação física já há um tempo.
 E eu vou explicar pra vocês a questão do como surgiu um pouco, o PKZ, a minha relação com o Thiago, como isso foi.
