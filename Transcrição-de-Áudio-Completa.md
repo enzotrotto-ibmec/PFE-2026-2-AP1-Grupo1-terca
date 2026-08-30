@@ -17,6 +17,7 @@ E dentro disso, nós, aqui do outro lado, já existia um espaço chamado One to 
 É um treinamento, já a gente atende adultos, atletas e não atletas, a performar melhor dentro do esporte que a gente gosta de praticar, futvôlei, corrida e o que for.
 
 Então a gente sempre trabalhou, a gente trabalhava sempre assim na ideia, como se fosse um estúdio de personal.
+
 E aí, lá, quando vocês forem lá, vocês estão convidados a ir lá, vocês vão lá com certeza, existe uma galeria, dentro da galeria, e aí foi dividido em dois lados.
 
 Então, nós preferimos colocar dois nomes diferentes, e aí, lá é o One to One, antes era One to One e nós criamos o playmakerz, o PKZ.
@@ -24,6 +25,7 @@ Então, nós preferimos colocar dois nomes diferentes, e aí, lá é o One to On
 E como funciona o PKZ?
 
 O atleta chega pra gente, ele passa por uma avaliação, por um teste físico são, são quantos testes mais ou menos?
+
 São mais, são mais de 16, são 16 testes físicos que a gente faz assim, como salto, velocidade, agilidade, velocidade de reação, foco.
 
 Enfim, são vários testes, depois que eles passam por essa avaliação, né, por esse teste físico, a gente monta um cronograma de treino pra eles daquele mês.
@@ -33,7 +35,9 @@ Então, durante todo o mês, a gente faz um, a gente cria um micro-ciclo dele, e
 E a cada treino que ele faz, existe um relatório de treino, a gente estava utilizando um drive, né, a gente usava um drive, e colocava no drive o que ele treinou, e um mês depois disso, a gente fazia uma reavaliação pra saber como é que foi o desenvolvimento dele naquele mês.
 
 Então, hoje, é,  nós temos, são 80 alunos, 80 alunos da One to One e média de 60 alunos da PKZ, dentro da mesma, do mesmo sistema.
+
 A gente avalia, trabalha e vê o que ele evoluiu ou não evoluiu naquele tempo daquele mês.
+
 Abrimos uma unidade agora no Vogue Square, uma outra unidade, está iniciando ainda, iniciamos esse mês, estamos concentrando alguns alunos que são mais próximos de lá.
 
 A gente está colocando pra lá, então, a nossa ideia é esse desenvolvimento.
@@ -81,8 +85,11 @@ E aí, vocês vão entender o que que a gente precisa, eu acho que vai falar né
 Pedro é o coordenador nosso, geral lá, me ajuda na parte da coordenação.
 
 O nosso outro coordenador não pode vir, ele vai falar um pouquinho, um pouquinho, Pedro tem mais facilidade de falar
-. . .
-. . .
+
+. . . (ininteligível)
+
+. . . (ininteligível)
+
 Então, gente, como o Henrique disse, a gente tem muita demanda, e algumas dessas demandas, elas são muito pertinentes, né?
 
 A gente usa muito de IA pra fazer alguns dos nossos relatórios e etc., porque é pra facilitar.
@@ -154,6 +161,7 @@ Por quê?
 Por mais que a gente peça a IA pra entregar, e ela entregue, obviamente, aquilo que a gente peça, em alguns momentos, isso é falho.
 
 Então, pra gente, talvez, seria interessante que a gente conseguisse gerar, por exemplo, seu nome é?
+
 João.
 
 João fez o teste com a gente.
@@ -200,7 +208,7 @@ Não julguem.
 
 Assim, lá nós tentamos vários sistemas que já existem, só que eu nunca conseguia nada personalizado.
 
-. . .
+. . . (ininteligível)
 
 Aqui está o nosso singelo aplicativo, gerado pelo Arthur. Dentro desse aplicativo, a gente tem ali um mínimo dashboard apresentativo para nós.
 
@@ -231,6 +239,7 @@ Então, nós tivemos muito problema com isso. Por quê? A gente avaliava e, às 
 Isso, teoricamente, não gerava um problema relacionado à especificidade do treino do João.
 
 Mas isso gerava um problema de relacionamento. Porque o pai quer entender como o filho dele está melhorando.
+
 E a gente precisava melhorar essas coisas.
 
 Então, hoje, esse nosso app, ele faz com que a gente consiga ter, de fato, a noção de quais são as pessoas que estão atrasadas.
@@ -288,6 +297,7 @@ Eles não são acumulativos tá.
 Aqui está a agenda.
 
 Então, a gente vai saber quais são os dias que o Caleb já treinou, quais dias ele vai treinar.
+
 Frequência.
 
 Arquivos.
@@ -303,6 +313,7 @@ Então, a gente anexa esse documento aqui também.
 Seria interessante se nós pudéssemos.
 
 Isso facilitaria muito o nosso processo.
+
 Aí, aqui está.
 
 Relatórios
@@ -332,6 +343,7 @@ Então, a gente faz ticagens, né?
 Quais materiais foram utilizados, quais foram as tecnologias utilizadas, quais variações foram treinadas, as capacidades e como foi o treino dele.
 
 Aqui, bem resumidamente, tá?
+
 E também existe a possibilidade de ter relatórios de teste.
 
 Henrique, procura, por favor.
@@ -357,6 +369,7 @@ Novo atleta.
 Você quer o que? Miguel Tessiotti?
 
 É, porque eu acho que já foi colocado o teste dele aí.
+
 Esse já tem teste.
 
 Teste físico.
@@ -485,7 +498,7 @@ E talvez acho que a ajuda de vocês vai ser muito pertinente para a gente nesse 
 
 Porque a gente sabe o que a gente precisa.
 
-A gente entende as nossas demandas, e elas são gigantes.
+A gente entende as nossas demandas e elas são gigantes.
 
 Mas a gente talvez falte um pouco de glamour nessas apresentações.
 
@@ -494,7 +507,9 @@ E isso é importante para a gente, porque o trabalho com público, ele é muito 
 E vocês sabem mais disso do que...
 
 Quando vocês montam um aplicativo, um site, vocês sabem que isso é o que a pessoa vai enxergar da sua marca.
+
 Então, a gente precisa que a nossa marca seja enxergada como uma forma mais coesa, palpável e funcional.
+
 Eu acho que essa é a nossa demanda em relação ao nosso aplicativo funcional hoje.
 
 E se pudéssemos melhorar, obviamente, seria perfeito.
