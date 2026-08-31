@@ -21,9 +21,9 @@ Ou seja: este repositório reúne o *processo* (pesquisa, ideação e planejamen
 ├── 03-5w2h/
 │   └── 5w2h.md
 ├── 04-documento-visao/
-│   └── documento-visao.md
+│   └── DocVisao.md
 ├── 05-aht/
-│   └── aht.png
+│   └── aht.md
 ├── 06-prototipo/
 │   └── link-e-prints.md
 ├── 07-reuniao-cliente/
