@@ -1,6 +1,6 @@
-# 📦 **Demandas do cliente PKZLAB & One to One**
+#  **Demandas do cliente PKZLAB & One to One**
 
-## 📋 Requerimentos
+##  Requerimentos
 
 ### Sistema centralizado
 
