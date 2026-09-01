@@ -1,4 +1,4 @@
-#  **Transcrição completa do áudio da entrevista com o cliente PKZLAB/One to One - Grupo 1**
+#  **Transcrição completa do áudio da entrevista com o cliente PKZLAB & One to One**
 
 Como o Thiago falou, me chamo Henrique, eu trabalho com futebol, esporte e desenvolvimento na parte da educação física já há um tempo.
 
