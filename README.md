@@ -1,12 +1,12 @@
 # Projeto para AP1 da disciplina Projeto Frontend
 
-## PKZ Lab 
+## PKZ Lab & One to one
 
-Repositório de organização e centralização dos documentos produzidos para o projeto de avaliação da disciplina **Projeto Frontend**, cujo objetivo é planejar uma proposta de melhoria para o site da empresa **PKZ Lab**.
+Repositório de organização e centralização dos documentos produzidos para o projeto de avaliação da disciplina **Projeto Frontend**, cujo objetivo é planejar uma proposta de melhoria para o site da empresa **PKZ Lab & One to One**.
 
 ## Contexto
 
-A PKZ Lab contratou nossa instituição para reestruturar o site da empresa. Nesta etapa do projeto, o foco está **exclusivamente no **eplanejamento**, nenhuma alteração é feita no site real. O trabalho consiste em levantar, entender e organizar as necessidades do cliente, e então estruturar essas informações através das ferramentas e conteúdos disponibilizados em aula, culminando em um protótipo de interface que representa a proposta de solução.
+A PKZ Lab & One to one contratou nossa instituição para reestruturar o site da empresa. Nesta etapa do projeto, o foco está **exclusivamente no **eplanejamento**, nenhuma alteração é feita no site real. O trabalho consiste em levantar, entender e organizar as necessidades do cliente, e então estruturar essas informações através das ferramentas e conteúdos disponibilizados em aula, culminando em um protótipo de interface que representa a proposta de solução.
 
 Ou seja: este repositório reúne o *processo* (pesquisa, ideação e planejamento), não uma implementação.
 
@@ -35,7 +35,7 @@ Ou seja: este repositório reúne o *processo* (pesquisa, ideação e planejamen
 ## Descrição dos entregáveis
 
 **01 - Brainstorm**
-Sessão(ões) livre(s) de geração de ideias sobre possíveis problemas e melhorias no site da PKZ Lab, sem filtro ou julgamento nesta fase.
+Sessão(ões) livre(s) de geração de ideias sobre possíveis problemas e melhorias no site, sem filtro ou julgamento.
 
 **02 - Mapa mental**
 Organização visual das ideias e temas levantados no brainstorm, agrupando-os por relação e hierarquia.
@@ -53,7 +53,7 @@ Decomposição das tarefas do usuário no site em uma estrutura hierárquica, us
 Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo o que foi levantado nas etapas anteriores. Incluir aqui o link para a ferramenta utilizada (ex: Figma) e/ou captura de telas.
 
 **07 - Reunião com o cliente**
-- `01-transcricao-bruta.md`: transcrição completa e literal da reunião realizada com a PKZ Lab.
+- `01-transcricao-bruta.md`: transcrição completa e literal da reunião realizada com o cliente.
 - `02-demandas-cliente.md`: versão tratada da reunião, contendo **apenas as demandas do cliente organizadas em tópicos**, sem falas, digressões ou qualquer conteúdo que não seja diretamente relevante para o planejamento do projeto.
 
 ## Nossa equipe:
