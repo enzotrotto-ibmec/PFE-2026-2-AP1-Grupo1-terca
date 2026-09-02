@@ -15,7 +15,7 @@ A PKZ não possui um site próprio que represente adequadamente seus serviços e
 - Canal digital próprio e profissional da PKZ
 - Apresentação estruturada dos serviços oferecidos no CT (treinamento, nutrição, fisioterapia e avaliações físicas com validação acadêmica)
 
-**O que s``erá entregue:** Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
+**O que será entregue:** Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
 
 ---
 
@@ -76,7 +76,7 @@ No ambiente digital — especificamente na ausência de um canal próprio da PKZ
 
 ## How — Como?
 
-**Ferramentas utilizadas no desenvolvimento do projeto:** Visual Studio Code, Figma, GitHub, Git, Whatapp e Discord
+**Ferramentas utilizadas no desenvolvimento do projeto:** Visual Studio Code, Figma, GitHub, Git, Whatsapp e Discord
 
 **Linguagens utilizadas no desenvolvimento do projeto:** HTML, CSS, JavaScript e React
 
