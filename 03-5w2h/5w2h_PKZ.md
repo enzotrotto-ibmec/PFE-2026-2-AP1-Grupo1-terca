@@ -14,7 +14,8 @@ A PKZ não possui um site próprio que represente adequadamente seus serviços e
 
 - Canal digital próprio e profissional da PKZ
 - Apresentação estruturada dos serviços oferecidos no CT (treinamento, nutrição, fisioterapia e avaliações físicas com validação acadêmica)
-- Diferenciação clara entre PKZ e ONE TO ONE para o público externo
+
+**O que Será entregue:** Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
 
 ---
 
@@ -70,10 +71,9 @@ No ambiente digital, especificamente na ausência de um canal próprio da PKZ qu
 
 ## How - Como?
 
-**Como o problema se manifesta hoje:**  
-Novos clientes chegam exclusivamente por indicação ou pelo Instagram, sendo redirecionados para uma landing page que encaminha o contato a uma assistente no WhatsApp. Esse fluxo é informal, centralizado em uma pessoa e não escalável — além de não apresentar o portfólio completo de serviços do CT.
+**Ferramentas utilizadas no desenvolvimento do projeto:** Visual Studio Code, Figma, GitHub, Git, Whatapp, Discord
 
-## **Linguagens utilizadas no desenvolvimento do projeto:**HTML, CSS, JavaScript e React
+**Linguagens utilizadas no desenvolvimento do projeto:** HTML, CSS, JavaScript e React
 
 ## How Much — Quanto custa?
 
