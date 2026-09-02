@@ -14,7 +14,8 @@ A PKZ não possui um site próprio que represente adequadamente seus serviços e
 
 - Canal digital próprio e profissional da PKZ
 - Apresentação estruturada dos serviços oferecidos no CT (treinamento, nutrição, fisioterapia e avaliações físicas com validação acadêmica)
-- Diferenciação clara entre PKZ e ONE TO ONE para o público externo
+
+**O que Será entregue:**Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
 
 ---
 
@@ -35,9 +36,14 @@ A PKZ concentra sua aquisição de clientes em indicações e em um funil digita
 ## Who — Quem?
 
 **Empresa afetada:** PKZ, PlayMakerz
-**Público-alvo da PKZ:** Atletas de alto rendimento e praticantes de todos os esportes  
+
+**Público-alvo da PKZ:** Atletas de alto rendimento e praticantes de todos os esportes
+
 **Localização do CT:** Av Armando Lombardi, 949, Loja i, Barra da Tijuca, Rio de Janeiro — RJ
+
 **Profissionais presentes no CT:** Treinadores físicos, nutricionistas e fisioterapeutas
+
+**Desenvolvedores do projeto:**Alunos do grupo 1 da aula de Projeto Front-End do IBMEC
 
 ---
 
@@ -54,24 +60,23 @@ No ambiente digital — especificamente na ausência de um canal próprio da PKZ
 
 **Localização física do CT:** Av Armando Lombardi, 949, Loja i, Barra da Tijuca, Rio de Janeiro — RJ
 
+**Local de desenvolvimento do projeto:** IBMEC, Rio de Janeiro — RJ além de reuniões remotas entre os desenvolvedores do projeto
+
 ---
 
 ## When — Quando?
 
-**Data de entrega do projeto:**
-**Data do início do projeto:**
+**Data de entrega do projeto:**17/11/2026
+**Data do início do projeto:**03/08/2026
+**Data de entrega do protótipo interativo/Documentos:**29/09/2026
 
 ---
 
 ## How — Como?
 
-**Como o problema se manifesta hoje:**  
-Novos clientes chegam exclusivamente por indicação ou pelo Instagram, sendo redirecionados para uma landing page que encaminha o contato a uma assistente no WhatsApp. Esse fluxo é informal, centralizado em uma pessoa e não escalável — além de não apresentar o portfólio completo de serviços do CT.
+**Ferramentas utilizadas no desenvolvimento do projeto:**Visual Studio Code, Figma, GitHub, Git, Whatapp, Discord
 
-**Como o problema poderia ser resolvido:**  
-Por meio da criação de um site próprio da PKZ que centralize e comunique profissionalmente seus serviços, diferenciais, equipe e formas de contato, reduzindo a dependência de intermediários e ampliando o alcance digital da empresa.
-
----
+## **Linguagens utilizadas no desenvolvimento do projeto:**HTML, CSS, JavaScript e React
 
 ## How Much — Quanto custa?
 
