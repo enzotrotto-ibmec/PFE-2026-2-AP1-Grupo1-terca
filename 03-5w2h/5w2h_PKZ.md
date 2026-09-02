@@ -43,7 +43,7 @@ A PKZ concentra sua aquisição de clientes em indicações e em um funil digita
 
 **Profissionais presentes no CT:** Treinadores físicos, nutricionistas e fisioterapeutas
 
-**Desenvolvedores do projeto:**Alunos do grupo 1 da aula de Projeto Front-End do IBMEC
+**Desenvolvedores do projeto:** Alunos do grupo 1 da aula de Projeto Front-End do IBMEC
 
 ---
 
