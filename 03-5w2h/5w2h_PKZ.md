@@ -58,9 +58,8 @@ No ambiente digital — especificamente na ausência de um canal próprio da PKZ
 
 ## When — Quando?
 
-**Desde quando o problema existe:** `[A definir]`
-**Urgência identificada:** `[A definir]`  
-**Sazonalidade relevante:** `[A definir]`
+**Data de entrega do projeto:**
+**Data do início do projeto:**
 
 ---
 
