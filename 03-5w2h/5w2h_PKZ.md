@@ -15,7 +15,7 @@ A PKZ não possui um site próprio que represente adequadamente seus serviços e
 - Canal digital próprio e profissional da PKZ
 - Apresentação estruturada dos serviços oferecidos no CT (treinamento, nutrição, fisioterapia e avaliações físicas com validação acadêmica)
 
-**O que Será entregue:**Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
+**O que Será entregue:** Um site próprio da PKZ que centralize informações sobre seus serviços, equipe, diferenciais e formas de contato, com o objetivo de ampliar o alcance digital da empresa e reduzir a dependência de intermediários.
 
 ---
 
@@ -66,15 +66,17 @@ No ambiente digital — especificamente na ausência de um canal próprio da PKZ
 
 ## When — Quando?
 
-**Data de entrega do projeto:**17/11/2026
-**Data do início do projeto:**03/08/2026
-**Data de entrega do protótipo interativo/Documentos:**29/09/2026
+**Data de entrega do projeto:** 17/11/2026
+
+**Data do início do projeto:** 03/08/2026
+
+**Data de entrega do protótipo interativo/Documentos:** 29/09/2026
 
 ---
 
 ## How — Como?
 
-**Ferramentas utilizadas no desenvolvimento do projeto:**Visual Studio Code, Figma, GitHub, Git, Whatapp, Discord
+**Ferramentas utilizadas no desenvolvimento do projeto:** Visual Studio Code, Figma, GitHub, Git, Whatapp, Discord
 
 ## **Linguagens utilizadas no desenvolvimento do projeto:**HTML, CSS, JavaScript e React
 
