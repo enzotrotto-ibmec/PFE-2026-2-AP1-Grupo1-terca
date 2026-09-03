@@ -1,7 +1,7 @@
 # 5W2H - Studio One to One
 
 > **Empresa:** Studio One to One
-> **Segmento:** Estúdio de treinamento e bem-estar com acompanhamento exclusivo de personais, garantindo dedicação total a você.
+> **Segmento:** Estúdio de treinamento e bem-estar com acompanhamento exclusivo de personais, garantindo dedicação total ao aluno.
 
 ---
 
@@ -15,7 +15,7 @@ O estúdio não possui um site próprio, dependendo exclusivamente do Instagram 
 - Plataforma digital própria, profissional e centralizada da One to One
 - Apresentação da metodologia, da estrutura do espaço, da equipe e dos planos, eliminando a necessidade de contato manual apenas para o esclarecimento de dúvidas básicas.
 
-**O que será entregue:** Um site próprio responsivo que funcione como a principal vitrine digital da One to One. O canal vai centralizar a proposta de valor, apresentar a estrutura física, detalhar a metodologia de treino personalizado e guiar o cliente de forma fluida para o contato comercial.
+**O que Será entregue:** Um site próprio responsivo que funcione como a principal vitrine digital da One to One. O canal vai centralizar a proposta de valor, apresentar a estrutura física, detalhar a metodologia de treino personalizado e guiar o cliente de forma fluida para o contato comercial.
 
 ---
 
