@@ -1,0 +1,47 @@
+@startuml AHT_PKZ_OneToOne
+
+start
+
+:Acessar o site;
+:Carregar página inicial;
+:Exibir as opções\nPKZ Lab e One to One;
+
+if (Qual empresa\nfoi selecionada?) then (PKZ Lab)
+
+    :Clicar em "PKZ Lab";
+    :Redirecionar para a página\nda PKZ Lab;
+    :Exibir informações da\nPKZ Lab;
+
+    if (Qual ação o usuário\ndeseja realizar?) then (Conhecer serviços)
+        :Visualizar serviços\nda PKZ Lab;
+        :Exibir informações\ndos serviços;
+    elseif (Entrar em contato)
+        :Acessar área de contato;
+        :Exibir informações\nde contato;
+    else (Voltar)
+        :Voltar para a página inicial;
+    endif
+
+else (One to One)
+
+    :Clicar em "One to One";
+    :Redirecionar para a página\nda One to One;
+    :Exibir informações da\nOne to One;
+
+    if (Qual ação o usuário\ndeseja realizar?) then (Conhecer serviços)
+        :Visualizar serviços\nda One to One;
+        :Exibir informações\ndos serviços;
+    elseif (Entrar em contato)
+        :Acessar área de contato;
+        :Exibir informações\nde contato;
+    else (Voltar)
+        :Voltar para a página inicial;
+    endif
+
+endif
+
+:Voltar para a página inicial\n(se necessário);
+
+stop
+
+@enduml
