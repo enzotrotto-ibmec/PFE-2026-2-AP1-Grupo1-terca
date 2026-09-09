@@ -77,10 +77,10 @@ Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo
 
 - [ ] Brainstorm
 - [ ] Mapa mental
-- [ ] 5W2H
+- [x] 5W2H
 - [ ] Documento de Visão
-- [ ] AHT
-- [ ] Protótipo da interface
-- [ ] Transcrição da reunião
-- [ ] Demandas do cliente (versão tratada)
+- [x] AHT
+- [x] Protótipo da interface
+- [x] Transcrição da reunião
+- [x] Demandas do cliente (versão tratada)
 ```
