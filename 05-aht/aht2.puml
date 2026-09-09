@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 aajjjj
+=======
+@startuml AHT2_PKZ_OneToOne
+start
+@enduml
+>>>>>>> bca47e76480895fa5c81b12d5e16ac16125977ea
