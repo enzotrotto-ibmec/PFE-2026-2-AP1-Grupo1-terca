@@ -93,3 +93,4 @@ _(Demandas levantadas na reunião com o cliente, catalogadas para orientação f
 - **04 - Documento de Visão:** Consolidação formal das necessidades de negócio, público-alvo, premissas e escopo de prototipação.
 - **05 - AHT (Árvore Hierárquica de Tarefas):** Validação dos fluxos de navegação (Acesso $\rightarrow$ Escolha da marca $\rightarrow$ Serviços / Contato / Retorno).
 - **06 - Protótipo da Interface:** Implementação no Figma aplicando sofisticação visual, consistência tipográfica, paleta alinhada ao posicionamento premium e usabilidade responsiva.
+- **07 - Reunião-Cliente:** Registro de alinhamento inicial para levantamento e compreensão de todas as demandas, dificuldades e necessidades reais da empresa que guiarão o desenvolvimento do projeto.
