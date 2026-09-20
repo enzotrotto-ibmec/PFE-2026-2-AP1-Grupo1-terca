@@ -1,8 +1,8 @@
-# Projeto para AP1 da disciplina Projeto Frontend
+# Projeto para AP1 da disciplina Projeto Front-end
 
 ## PKZ Lab & One to one
 
-Repositório de organização e centralização dos documentos produzidos para o projeto de avaliação da disciplina **Projeto Frontend**, cujo objetivo é planejar uma proposta de melhoria para o site da empresa **PKZ Lab & One to One**.
+Repositório de organização e centralização dos documentos produzidos para o projeto de avaliação da disciplina **Projeto Front-end**, cujo objetivo é planejar uma proposta de melhoria para o site da empresa **PKZ Lab & One to One**.
 
 ## Contexto
 
@@ -52,7 +52,7 @@ Decomposição das tarefas do usuário no site em uma estrutura hierárquica, us
 **06 - Protótipo da interface**
 Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo o que foi levantado nas etapas anteriores. Incluir aqui o link para a ferramenta utilizada (ex: Figma) e/ou captura de telas.
 
-**07 - Reunião com o cliente**
+**07 - Reuniões com o cliente**
 - `01-transcricao-bruta.md`: transcrição completa e literal da reunião realizada com o cliente.
 - `02-demandas-cliente.md`: versão tratada da reunião, contendo **apenas as demandas do cliente organizadas em tópicos**, sem falas, digressões ou qualquer conteúdo que não seja diretamente relevante para o planejamento do projeto.
 
@@ -68,19 +68,19 @@ Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo
 
 ## Disciplina
 
-- **Curso/Disciplina:** Projeto Frontend (turma de terça-feira)
+- **Curso/Disciplina:** Projeto Front-end (turma de terça-feira)
 - **Professor:** Thiago Marcondes Santos
 - **Instituição:** IBMEC
 - **Semestre:** 2026.2
 
 ## Status dos entregáveis
 
-- [ ] Brainstorm
-- [ ] Mapa mental
+- [x] Brainstorm
+- [x] Mapa mental
 - [x] 5W2H
-- [ ] Documento de Visão
+- [x] Documento de Visão
 - [x] AHT
 - [x] Protótipo da interface
-- [x] Transcrição da reunião
+- [x] Transcrições das reuniões
 - [x] Demandas do cliente (versão tratada)
 ```

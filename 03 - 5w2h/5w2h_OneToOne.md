@@ -78,6 +78,6 @@ No meio virtual, especificamente na ausência de um site próprio da One to One 
 
 ## How Much — Quanto custa?
 
-**Solução viabilizada por** Parceria com equipe de alunos de Engenharia da Computação do IBMEC via projeto extensionista da disciplina de Projeto Front-End.
+**Solução viabilizada por** Parceria com equipe de alunos dos cursos de Engenharia da Computação e de Software do IBMEC via projeto extensionista da disciplina de Projeto Front-End.
 
 ---

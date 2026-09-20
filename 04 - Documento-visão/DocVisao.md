@@ -1,7 +1,7 @@
 # Documento de Visão
 ## Projeto PKZ Lab & One to One 
 
-### *Disciplina: Projeto Frontend (turma de terça-feira)*
+### *Disciplina: Projeto Front-end (turma de terça-feira)*
 
 ### Professor Thiago Marcondes Santos
 
@@ -50,7 +50,7 @@ Como consequência, potenciais clientes não conseguem explorar os serviços de 
 
 ## 4. Stakeholders e Usuários
 
-**Disciplina:** Projeto Frontend (turma de terça-feira) — Prof. Thiago Marcondes Santos
+**Disciplina:** Projeto Front-end (turma de terça-feira) — Prof. Thiago Marcondes Santos
 
 | Stakeholder / Usuário | Papel no projeto |
 |---|---|

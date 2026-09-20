@@ -77,6 +77,6 @@ No ambiente digital, especificamente na ausência de um canal próprio da PKZ qu
 
 ## How Much — Quanto custa?
 
-**Solução viabilizada por** parceria com equipe de alunos de Engenharia da Computação do IBMEC via projeto extensionista da disciplina de Projeto Front-End.
+**Solução viabilizada por** Parceria com equipe de alunos dos cursos de Engenharia da Computação e de Software do IBMEC via projeto extensionista da disciplina de Projeto Front-End.
 
 ---

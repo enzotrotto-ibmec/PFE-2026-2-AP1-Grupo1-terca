@@ -1,6 +1,6 @@
 # Sessão de Brainstorming – PKZ Lab & Studio One to One
 
-> **Disciplina:** Projeto Frontend (Turma de Terça-feira) – IBMEC 2026.2  
+> **Disciplina:** Projeto Front-end (Turma de Terça-feira) – IBMEC 2026.2  
 > **Professor:** Thiago Marcondes Santos  
 > **Equipe 1:** Alexia Schmidt, Bernardo Gomes, Bernardo Nemirovsky, Enzo Trotto (SM), Gabriel Góis, Guilherme Macedo, João Pedro Ferreira  
 > **Objetivo:** Levantamento livre de ideias, análise de dores, ideação de funcionalidades, arquitetura e propostas de valor para guiar a reestruturação da presença digital e a criação do protótipo de interface das marcas **PKZ Lab** e **Studio One to One**.

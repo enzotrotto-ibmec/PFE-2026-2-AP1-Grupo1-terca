@@ -1,5 +1,5 @@
 #  **Transcrição completa do áudio da reunião com o cliente PKZLAB & One to One**
-## **Áudio disponibilizado pelo:** Grupo 4
+## **Áudio disponibilizado por:** Grupo de alunos de outra classe
 
 ## Primeira parte
 
