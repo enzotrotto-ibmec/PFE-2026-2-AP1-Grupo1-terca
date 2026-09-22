@@ -4,5 +4,10 @@ start
 
 :acessar o site;
 :carregar página inicial;
+:exibir informações \nbreves sobre os projetos;
+:scrollar para baixo;
+:exibir as opções \nPKZ Lab e One to One;
+
+
 @enduml
 
