@@ -7,11 +7,25 @@ start
 :exibir informações \nbreves sobre os projetos;
 :scrollar para baixo;
 :exibir as opções \nPKZ Lab e One to One;
-:clicar em PKZ Lab\n ou One to One;
+:clicar em "Quero conhecer" \nda PKZ Lab ou One to One;
 
 if (Qual empresa foi selecionada?) then (PKZ Lab)
     :redirecionar para a página\nda PKZ Lab;
-    :exibir informações da\nPKZ Lab;
+    :exibir atalhos no header da página;
+    if (O usuário clicou em algum atalho?) then (Sim)
+        :redirecionar para a página\ndo atalho selecionado;
+        :exibir informações da\npágina do atalho;
+    else (Não)
+        :exibir informações mais\n detalhadas sobre o \nprojeto PKZ Lab;
+        :Scrollar para baixo;
+        :exibir sessão para\n pais e responsáveis;
+        :Scrollar para baixo;
+        :exibir os serviços \noferecidos pelo projeto;
+        :Scrollar para baixo;
+        :exibir localização \ndo projeto PKZ;
+        :Scrollar para baixo;
+        :exibir footer com o \nInstagram da PKZ Lab \ne a localização do projeto;
+        endif
 
 
 else (One to One)
