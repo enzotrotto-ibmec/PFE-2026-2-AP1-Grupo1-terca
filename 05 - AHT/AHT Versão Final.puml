@@ -1,4 +1,4 @@
-@startuml AHT_PKZ_OneToOne_AulaExperimental_Login
+@startuml AHT_PKZ_OneToOne_AulaExperimental_Login (AHT Versão Final)
 start
 
 :Acessar o site (Home / Hub Único);
@@ -13,7 +13,7 @@ if (Qual ação o usuário deseja realizar?) then (Agendar Aula Experimental)
         :Informar e-mail/senha para autenticação;
     else (Não)
         :Preencher formulário de cadastro simplificado (Nome, E-mail, Telefone);
-        :Criar credenciais de acesso; 
+        :Criar credenciais de acesso;
     endif
 
     :Acessar tela de seleção de modalidade da Aula Experimental;
