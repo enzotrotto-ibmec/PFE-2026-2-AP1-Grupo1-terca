@@ -46,6 +46,28 @@ elseif (Navegar / Conhecer as Marcas)
         endif
     endif
 
+else (Acessar Portal do Aluno Ativo / Já matriculado)
+    :Clicar no botão "Portal" no Header;
+    :Fazer login com credenciais ativas;
+
+    if (Tipo de Portal) then (Portal PKZ - Atleta/Responsável)
+        :Exibir Dashboard de Desempenho Infantil;
+        split
+            :Consultar Gráficos de Evolução Contínua (Linha do tempo);
+            :Visualizar notas explicativas nos pontos (ex: correção de assimetria);
+            :Ler resumo narrativo gerado por IA;
+        split again
+            :Gerenciar Agendamentos Regulares (Máximo 6 atletas por horário);
+            if (Há vaga disponível?) then (Sim)
+                :Confirmar agendamento do treino;
+            else (Não)
+                :Entrar na Fila de Espera;
+            endif
+        end split
+    else (Portal One to One - Adulto)
+        :Exibir Portal do Aluno Adulto;
+        :Selecionar professor, agendar treinos e ver observações das sessões;
+    endif
 endif
 
 stop
