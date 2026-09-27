@@ -44,6 +44,7 @@ if (Qual empresa foi selecionada?) then (PKZ Lab)
         :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
         endif
 
+stop
 
 else (One to One)
     :redirecionar para a página\nda One to One;
@@ -62,7 +63,8 @@ else (One to One)
         :Scrollar para baixo;
         :Exibir footer com o \nInstagram do One to One \ne a localização do projeto;
         :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
-        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);    
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
+             
     else (Não)
         :exibir informações mais\n detalhadas sobre o \nprojeto One to One;
         :Scrollar para baixo;
