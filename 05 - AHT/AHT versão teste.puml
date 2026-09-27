@@ -1,47 +1,52 @@
-@startuml AHT_PKZ_OneToOne
-
+@startuml AHT_PKZ_OneToOne_AulaExperimental_Login
 start
 
-:Acessar o site;
-:Carregar página inicial;
-:Exibir as opções\nPKZ Lab e One to One;
+:Acessar o site (Home / Hub Único);
+:Carregar página inicial compartilhada;
+:Exibir Header unificado [HOME | SOBRE | SERVIÇOS | AGENDAR AULA EXPERIMENTAL | PORTAL];
+:Exibir vídeo/imagem conceitual (Hero) apresentando as duas marcas integradas;
 
-if (Qual empresa\nfoi selecionada?) then (PKZ Lab)
-
-    :Clicar em "PKZ Lab";
-    :Redirecionar para a página\nda PKZ Lab;
-    :Exibir informações da\nPKZ Lab;
-
-    if (Qual ação o usuário\ndeseja realizar?) then (Conhecer serviços)
-        :Visualizar serviços\nda PKZ Lab;
-        :Exibir informações\ndos serviços;
-    elseif (Entrar em contato)
-        :Acessar área de contato;
-        :Exibir informações\nde contato;
-    else (Voltar)
-        :Voltar para a página inicial;
+if (Qual ação o usuário deseja realizar?) then (Agendar Aula Experimental)
+    :Clicar no botão "Agendar Aula Experimental" (no Header ou CTAs do Hub);
+    
+    if (O usuário já possui conta/login?) then (Sim)
+        :Informar e-mail/senha para autenticação;
+    else (Não)
+        :Preencher formulário de cadastro simplificado (Nome, E-mail, Telefone);
+        :Criar credenciais de acesso;
     endif
 
-else (One to One)
+    :Acessar tela de seleção de modalidade da Aula Experimental;
 
-    :Clicar em "One to One";
-    :Redirecionar para a página\nda One to One;
-    :Exibir informações da\nOne to One;
+    if (Qual serviço/modalidade o cliente deseja agendar?) then (PKZ Lab [Infantil/Atleta])
+        :Exibir agenda e horários do PKZ Lab (Treinamento para crianças/adolescentes);
+        :Selecionar dia e horário disponível;
+        :Confirmar solicitação da Aula Experimental no PKZ Lab;
+    else (One to One [Adulto/Academia])
+        :Exibir agenda e horários do One to One (Treinamento individualizado adulto);
+        :Selecionar dia e horário disponível;
+        :Confirmar solicitação da Aula Experimental no One to One;
+    endif
 
-    if (Qual ação o usuário\ndeseja realizar?) then (Conhecer serviços)
-        :Visualizar serviços\nda One to One;
-        :Exibir informações\ndos serviços;
-    elseif (Entrar em contato)
-        :Acessar área de contato;
-        :Exibir informações\nde contato;
-    else (Voltar)
-        :Voltar para a página inicial;
+    :Exibir mensagem de confirmação e instruções prévias da aula;
+
+elseif (Navegar / Conhecer as Marcas)
+    if (Qual item do Menu ou Seção foi clicado?)
+    elseif (Home / Sobre)
+        :Visualizar história e conceito unificado ("Duas juntas se tornam o que nós somos");
+    elseif (Serviços)
+        :Exibir comparação dos serviços: Academia/Adultos vs. Atletas/Crianças;
+    elseif (Toggle de Seleção de Marca)
+        if (Qual marca foi selecionada?) then (PKZ Lab)
+            :Carregar Landing Page dedicada da PKZ Lab;
+            :Exibir metodologia infantil, galeria e WhatsApp da PKZ;
+        else (One to One)
+            :Carregar Landing Page dedicada da One to One;
+            :Exibir treino adulto e WhatsApp da One to One;
+        endif
     endif
 
 endif
 
-:Voltar para a página inicial\n(se necessário);
-
 stop
-
 @enduml
