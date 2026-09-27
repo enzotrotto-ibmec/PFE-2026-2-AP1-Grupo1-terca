@@ -7,6 +7,16 @@ start
 :exibir informações \nbreves sobre os projetos;
 :scrollar para baixo;
 :exibir as opções \nPKZ Lab e One to One;
+:clicar em PKZ Lab\n ou One to One;
+
+if (Qual empresa foi selecionada?) then (PKZ Lab)
+    :redirecionar para a página\nda PKZ Lab;
+    :exibir informações da\nPKZ Lab;
+
+
+else (One to One)
+    :redirecionar para a página\nda One to One;
+    :exibir informações da\nOne to One;
 
 
 @enduml
