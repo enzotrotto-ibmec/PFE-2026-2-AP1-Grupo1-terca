@@ -37,3 +37,37 @@ partition "Página One to One" {
     stop
   endif
 }
+
+partition "Página PKZ (Playmakerz)" {
+  label pag_pkz
+  :Acessa cabeçalho "Playmakerz - Sobre | Para Pais | Serviços | Localização | Contato";
+  :Lê o título principal "Treine como um profissional";
+  :Visualiza seção "Sobre a PKZ";
+  :Lê a seção "Para Pais/Responsáveis" (Segurança para os filhos);
+  :Explora seção "Sem Limites de Esportes" (Vôlei, Jiu-Jitsu, etc.);
+  :Visualiza o mapa com a localização no rodapé;
+
+  if (Clica no menu "Contato"?) then (Sim)
+    goto fluxo_agendamento
+  else (Não)
+    if (Clica no Instagram) then (Sim)
+      :Redirecionado para o Instagram da PKZ;
+    endif
+    stop
+  endif
+}
+
+partition "Fluxo de Contato e Agendamento (Comum)" {
+  label fluxo_agendamento
+  :Exibe caixa na tela solicitando o nome;
+  :Preenche o nome e clica em "Falar com o consultor";
+  :Abre a agenda de marcação de aula experimental;
+  :Seleciona o dia e a data desejados;
+  :Abre caixa de cadastro de dados pessoais;
+  :Informa Nome Completo, Telefone, CPF e Observação (opcional);
+  :Clica em "Confirmar aula";
+  :Aula experimental agendada com sucesso;
+  stop
+}
+
+@enduml
