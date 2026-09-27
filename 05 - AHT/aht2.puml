@@ -40,6 +40,8 @@ if (Qual empresa foi selecionada?) then (PKZ Lab)
         :exibir localização \ndo projeto PKZ;
         :Scrollar para baixo;
         :exibir footer com o \nInstagram da PKZ Lab \ne a localização do projeto;
+        :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
         endif
 
 
