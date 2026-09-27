@@ -1,74 +1,82 @@
-@startuml AHT_PKZ_OneToOne_AulaExperimental_Login
+=======
+@startuml AHT2_PKZ_OneToOne
 start
 
-:Acessar o site (Home / Hub Único);
-:Carregar página inicial compartilhada;
-:Exibir Header unificado [HOME | SOBRE | SERVIÇOS | AGENDAR AULA EXPERIMENTAL | PORTAL];
-:Exibir vídeo/imagem conceitual (Hero) apresentando as duas marcas integradas;
+:acessar o site;
+:carregar página inicial;
+:exibir informações \nbreves sobre os projetos;
+:scrollar para baixo;
+:exibir as opções \nPKZ Lab e One to One;
+:clicar em "Quero conhecer" \nda PKZ Lab ou One to One;
 
-if (Qual ação o usuário deseja realizar?) then (Agendar Aula Experimental)
-    :Clicar no botão "Agendar Aula Experimental" (no Header ou CTAs do Hub);
+if (Qual empresa foi selecionada?) then (PKZ Lab)
+    :redirecionar para a página\nda PKZ Lab;
+    :exibir atalhos no header da página;
+    if (O usuário clicou em algum atalho?) then (Sim)
+        if (Qual atalho foi clicado?) 
+        elseif (Sobre)
+            :exibir informações mais\n detalhadas sobre o \nprojeto PKZ Lab;
+        elseif (Pais e responsáveis)
+            :exibir sessão para\n pais e responsáveis;
+        elseif (Serviços)
+            :exibir os serviços \noferecidos pelo projeto;
+        elseif (Localização)
+            :exibir localização \ndo projeto PKZ;
+        elseif (Contato)
+            :sobrepôr a tela atual \ncom uma menor com a \nopção de informar o nome \ne se comunicar pelo Whatsapp;     
+        endif 
+        :Scrollar para baixo;
+        :exibir footer com o \nInstagram da PKZ Lab \ne a localização do projeto;
+        :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
     
-    if (O usuário já possui conta/login?) then (Sim)
-        :Informar e-mail/senha para autenticação;
     else (Não)
-        :Preencher formulário de cadastro simplificado (Nome, E-mail, Telefone);
-        :Criar credenciais de acesso;
-    endif
-
-    :Acessar tela de seleção de modalidade da Aula Experimental;
-
-    if (Qual serviço/modalidade o cliente deseja agendar?) then (PKZ Lab [Infantil/Atleta])
-        :Exibir agenda e horários do PKZ Lab (Treinamento para crianças/adolescentes);
-        :Selecionar dia e horário disponível;
-        :Confirmar solicitação da Aula Experimental no PKZ Lab;
-    else (One to One [Adulto/Academia])
-        :Exibir agenda e horários do One to One (Treinamento individualizado adulto);
-        :Selecionar dia e horário disponível;
-        :Confirmar solicitação da Aula Experimental no One to One;
-    endif
-
-    :Exibir mensagem de confirmação e instruções prévias da aula;
-
-elseif (Navegar / Conhecer as Marcas)
-    if (Qual item do Menu ou Seção foi clicado?)
-    elseif (Home / Sobre)
-        :Visualizar história e conceito unificado ("Duas juntas se tornam o que nós somos");
-    elseif (Serviços)
-        :Exibir comparação dos serviços: Academia/Adultos vs. Atletas/Crianças;
-    elseif (Toggle de Seleção de Marca)
-        if (Qual marca foi selecionada?) then (PKZ Lab)
-            :Carregar Landing Page dedicada da PKZ Lab;
-            :Exibir metodologia infantil, galeria e WhatsApp da PKZ;
-        else (One to One)
-            :Carregar Landing Page dedicada da One to One;
-            :Exibir treino adulto e WhatsApp da One to One;
+        :exibir informações mais\n detalhadas sobre o \nprojeto PKZ Lab;
+        :Scrollar para baixo;
+        :exibir sessão para\n pais e responsáveis;
+        :Scrollar para baixo;
+        :exibir os serviços \noferecidos pelo projeto;
+        :Scrollar para baixo;
+        :exibir localização \ndo projeto PKZ;
+        :Scrollar para baixo;
+        :exibir footer com o \nInstagram da PKZ Lab \ne a localização do projeto;
+        :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
         endif
-    endif
 
-else (Acessar Portal do Aluno Ativo / Já matriculado)
-    :Clicar no botão "Portal" no Header;
-    :Fazer login com credenciais ativas;
 
-    if (Tipo de Portal) then (Portal PKZ - Atleta/Responsável)
-        :Exibir Dashboard de Desempenho Infantil;
-        split
-            :Consultar Gráficos de Evolução Contínua (Linha do tempo);
-            :Visualizar notas explicativas nos pontos (ex: correção de assimetria);
-            :Ler resumo narrativo gerado por IA;
-        split again
-            :Gerenciar Agendamentos Regulares (Máximo 6 atletas por horário);
-            if (Há vaga disponível?) then (Sim)
-                :Confirmar agendamento do treino;
-            else (Não)
-                :Entrar na Fila de Espera;
-            endif
-        end split
-    else (Portal One to One - Adulto)
-        :Exibir Portal do Aluno Adulto;
-        :Selecionar professor, agendar treinos e ver observações das sessões;
+else (One to One)
+    :redirecionar para a página\nda One to One;
+    :exibir informações da\nOne to One;
+    if (O usuário clicou em algum atalho?) then (Sim)
+        if (Qual atalho foi clicado?) 
+        elseif (Sobre)
+            :exibir informações mais\n detalhadas sobre o \nprojeto One to One;
+        elseif (serviços)
+            :exibir os serviços \noferecidos pelo projeto;
+        elseif (Localização)
+            :exibir localização \ndo projeto One to One;
+        elseif (Contato)
+            :sobrepôr a tela atual \ncom uma menor com a \nopção de informar o nome \ne se comunicar pelo Whatsapp; 
+        endif 
+        :Scrollar para baixo;
+        :Exibir footer com o \nInstagram do One to One \ne a localização do projeto;
+        :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);    
+    else (Não)
+        :exibir informações mais\n detalhadas sobre o \nprojeto One to One;
+        :Scrollar para baixo;
+        :exibir sessão para\n pais e responsáveis;
+        :Scrollar para baixo;
+        :exibir os serviços \noferecidos pelo projeto;
+        :Scrollar para baixo;
+        :exibir localização \ndo projeto One to One;
+        :Scrollar para baixo;
+        :exibir footer com o \nInstagram da One to One \ne a localização do projeto;
+        :Clicar no botão com \numa seta para \nvoltar ao topo da \npágina caso necessário;
+        :Clicar no botão "Portal" \npara voltar para a \npágina inicial (caso desejado);
+
     endif
-endif
 
 stop
 @enduml
