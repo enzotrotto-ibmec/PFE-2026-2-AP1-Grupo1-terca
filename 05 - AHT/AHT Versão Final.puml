@@ -1,4 +1,4 @@
-@startuml
+@startuml AHT_PKZ_OneToOne
 title Fluxo Completo do Site - Home, One to One e PKZ
 
 start
@@ -11,7 +11,7 @@ partition "Página Principal - Cabeçalho e Conteúdo" {
   if (Ação de Navegação no Cabeçalho ou Caixas) then (Opção One to One)
     :Clica em "arraste para visita - One to One" / "Personal Training - Quero conhecer";
     goto pag_one_to_one
-  else (Opção PKZ)
+  elseif (Opção PKZ?) then (Sim)
     :Clica em "Arraste para visitar PKZ" / "PKZ - Quero conhecer";
     goto pag_pkz
   else (Redes Sociais Rodapé)
