@@ -29,6 +29,10 @@ Ou seja: este repositório reúne o *processo* (pesquisa, ideação e planejamen
 ├── 07-reuniao-cliente/
 │   ├── 01-transcricao-bruta.md
 │   └── 02-demandas-cliente.md
+├── 08-scrum/
+│   ├── README.md
+│   ├── product-backlog.md
+│   └── sprints/
 └── README.md
 ```
 
@@ -55,6 +59,9 @@ Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo
 **07 - Reuniões com o cliente**
 - `01-transcricao-bruta.md`: transcrição completa e literal da reunião realizada com o cliente.
 - `02-demandas-cliente.md`: versão tratada da reunião, contendo **apenas as demandas do cliente organizadas em tópicos**, sem falas, digressões ou qualquer conteúdo que não seja diretamente relevante para o planejamento do projeto.
+
+**08 - Scrum**
+Registro de como a equipe aplicou o Scrum: papéis (PO, Scrum Master e time), eventos, Definition of Done, Product Backlog priorizado e um arquivo por sprint com Sprint Backlog, Review e Retrospectiva.
 
 ## Nossa equipe:
 
@@ -83,4 +90,5 @@ Protótipo (baixa ou alta fidelidade) da proposta de solução, com base em tudo
 - [x] Protótipo da interface
 - [x] Transcrições das reuniões
 - [x] Demandas do cliente (versão tratada)
+- [x] Documentação Scrum
 ```
