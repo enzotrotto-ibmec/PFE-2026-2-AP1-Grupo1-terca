@@ -1,0 +1,73 @@
+@startuml AHT_PKZ_OneToOne
+title Fluxo Completo do Site - Home, One to One e PKZ
+
+start
+
+:Usuário acessa a Página Principal (Home);
+
+partition "Página Principal - Cabeçalho e Conteúdo" {
+  :Visualiza informações sobre as empresas e fotos dos integrantes;
+  
+  if (Ação de Navegação no Cabeçalho ou Caixas) then (Opção One to One)
+    :Clica em "arraste para visita - One to One" / "Personal Training - Quero conhecer";
+    goto pag_one_to_one
+  elseif (Opção PKZ?) then (Sim)
+    :Clica em "Arraste para visitar PKZ" / "PKZ - Quero conhecer";
+    goto pag_pkz
+  else (Redes Sociais Rodapé)
+    :Clica no Instagram da PKZ ou One to One;
+    :Redirecionado para o perfil do Instagram selecionado;
+    stop
+  endif
+}
+
+partition "Página One to One" {
+  label pag_one_to_one
+  :Acessa cabeçalho "Studio One to One - Sobre | Serviços | Localização | Contato";
+  :Visualiza seção "Sobre a One to One";
+  :Explora soluções exclusivas (Personal Training, Fisioterapia, Nutricionista);
+  :Visualiza localização das unidades no rodapé;
+
+  if (Clica no menu "Contato"?) then (Sim)
+    goto fluxo_agendamento
+  else (Não)
+    if (Clica no Instagram) then (Sim)
+      :Redirecionado para o Instagram da One to One;
+    endif
+    stop
+  endif
+}
+
+partition "Página PKZ (Playmakerz)" {
+  label pag_pkz
+  :Acessa cabeçalho "Playmakerz - Sobre | Para Pais | Serviços | Localização | Contato";
+  :Lê o título principal "Treine como um profissional";
+  :Visualiza seção "Sobre a PKZ";
+  :Lê a seção "Para Pais/Responsáveis" (Segurança para os filhos);
+  :Explora seção "Sem Limites de Esportes" (Vôlei, Jiu-Jitsu, etc.);
+  :Visualiza o mapa com a localização no rodapé;
+
+  if (Clica no menu "Contato"?) then (Sim)
+    goto fluxo_agendamento
+  else (Não)
+    if (Clica no Instagram) then (Sim)
+      :Redirecionado para o Instagram da PKZ;
+    endif
+    stop
+  endif
+}
+
+partition "Fluxo de Contato e Agendamento (Comum)" {
+  label fluxo_agendamento
+  :Exibe caixa na tela solicitando o nome;
+  :Preenche o nome e clica em "Falar com o consultor";
+  :Abre a agenda de marcação de aula experimental;
+  :Seleciona o dia e a data desejados;
+  :Abre caixa de cadastro de dados pessoais;
+  :Informa Nome Completo, Telefone, CPF e Observação (opcional);
+  :Clica em "Confirmar aula";
+  :Aula experimental agendada com sucesso;
+  stop
+}
+
+@enduml
