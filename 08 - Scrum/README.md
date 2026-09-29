@@ -81,14 +81,14 @@ As dailies e as demais reuniões acontecem no **Discord** (com compartilhamento 
 
 ## 5. Contribuição por pessoa (AP1)
 
-Commits de 29/08 a 28/09/2026 (103 no total), com os nomes de autor unificados (o repositório tem 16 nomes de autor para 7 pessoas).
+Commits de 29/08 a 29/09/2026 (108 no total), com os nomes de autor unificados (o repositório tem 16 nomes de autor para 7 pessoas).
 
 | Pessoa | Commits | Foco principal |
 |---|---|---|
 | João Pedro Ferreira | 22 | Transcrições, demandas, 5W2H, brainstorm |
 | Enzo Trotto | 22 | README, estrutura, Documento de Visão, atas (SM) |
 | Bernardo Nemirovsky | 17 | 5W2H, brainstorm, protótipo |
-| Alexia Schmid | 14 | AHT, painel, fluxo de agendamento |
+| Alexia Schmid | 16 | AHT, painel, fluxo de agendamento |
 | Gabriel Góis | 12 | AHT, ajustes e versão final |
 | Bernardo Gomes | 11 | SCRUM, Mapa mental e AHT |
 | Guilherme Macedo | 5 | AHT inicial, PNGs, organização de pastas |
