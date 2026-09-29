@@ -22,11 +22,11 @@ Esta pasta documenta como a Equipe 1 aplicou o **Scrum** para organizar o trabal
 
 | Papel | Quem | Responsabilidades no projeto |
 |---|---|---|
-| **Product Owner** | Cliente PKZ Lab & One to One (representado nas reuniões com o cliente) | Fonte das demandas, define o que tem mais valor para o negócio e valida o protótipo. Internamente, a equipe traduziu as falas do cliente em itens priorizados do backlog. |
+| **Product Owner** | Prof. Thiago Marcondes Santos | Define os entregáveis e os prazos, prioriza o que deve ser feito em cada etapa, aceita ou pede correções nas entregas e dá o feedback da apresentação. |
 | **Scrum Master** | Enzo Trotto | Conduz as reuniões, remove impedimentos, mantém o repositório organizado (README, estrutura de pastas) e registra as atas. |
 | **Time de Desenvolvimento** | Alexia Schmid, Bernardo Gomes, Bernardo Nemirovsky, Gabriel Góis, Guilherme Macedo, João Pedro Ferreira | Produzem os entregáveis (transcrições, 5W2H, brainstorm, mapa mental, AHT, protótipo) e se auto-organizam na divisão das tarefas. |
 
-**Professor / stakeholder acadêmico:** Thiago Marcondes Santos - define os entregáveis e prazos da disciplina e dá o feedback da apresentação.
+**Cliente / stakeholder:** PKZ Lab & One to One - fonte das demandas levantadas nas reuniões com o cliente, que a equipe transformou em itens do Product Backlog.
 
 ---
 
