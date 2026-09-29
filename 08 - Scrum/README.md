@@ -90,7 +90,7 @@ Commits de 29/08 a 28/09/2026 (103 no total), com os nomes de autor unificados (
 | Bernardo Nemirovsky | 17 | 5W2H, brainstorm, protótipo |
 | Alexia Schmid | 14 | AHT, painel, fluxo de agendamento |
 | Gabriel Góis | 12 | AHT, ajustes e versão final |
-| Bernardo Gomes | 11 | Mapa mental, AHT |
+| Bernardo Gomes | 11 | SCRUM, Mapa mental e AHT |
 | Guilherme Macedo | 5 | AHT inicial, PNGs, organização de pastas |
 
 > Número de commits não mede contribuição: Guilherme, por exemplo, tem poucos commits, mas fez mudanças estruturais grandes.
