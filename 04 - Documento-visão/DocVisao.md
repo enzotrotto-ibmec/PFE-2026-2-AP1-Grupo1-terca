@@ -62,6 +62,8 @@ As duas marcas compartilham a mesma base de identidade visual (paleta azul e bra
 
 ## 5. Stakeholders e Usuários
 
+## 5. Stakeholders e Usuários
+
 **Disciplina:** Projeto Front-end (turma de terça-feira) — Prof. Thiago Marcondes Santos
 
 | Stakeholder / Usuário | Papel no projeto |
@@ -71,6 +73,7 @@ As duas marcas compartilham a mesma base de identidade visual (paleta azul e bra
 | **Atletas de alto rendimento e praticantes de esportes (leads/potenciais clientes)** | Público-alvo do site; usuários que buscarão informações e o primeiro contato |
 | **Pais/responsáveis de atletas** | Público secundário, interessado em credibilidade, resultados e formas de contato |
 | **Equipe do projeto (alunos de Engenharia da Computação - IBMEC)** | Responsável por planejar e prototipar a solução |
+| **Prof. Thiago Marcondes Santos** | Professor da disciplina Projeto Front-end; orienta a equipe e avalia as entregas |
 
 ---
 
